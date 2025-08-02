@@ -509,5 +509,6 @@
     "editAttribute": "Edit attribute",
     "viewAttribute": "View attribute",
     "deleteProductGroupMessage": "Are you sure you want to delete this product group?",
-    "customerPayment": "Customer payment"
+    "customerPayment": "Customer payment",
+    "customerInfoNotFound": "Customer info not found"
 }

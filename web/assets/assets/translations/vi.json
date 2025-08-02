@@ -510,5 +510,6 @@
     "editAttribute": "Chỉnh sửa đặc tính",
     "viewAttribute": "Xem đặc tính",
     "deleteProductGroupMessage": "Bạn muốn xoá danh mục?",
-    "customerPayment": "Tiền khách trả"
+    "customerPayment": "Tiền khách trả",
+    "customerInfoNotFound": "Chưa có thông tin khách hàng! Vui lòng thêm thông tin khách hàng"
 }
